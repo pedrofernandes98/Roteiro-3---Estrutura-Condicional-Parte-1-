@@ -1,0 +1,7 @@
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro3 - Estrutura de Repetição (parte 1)\exercicio4_lista3\exercicio4_lista3\obj\Debug\exercicio4_lista3.csprojAssemblyReference.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro3 - Estrutura de Repetição (parte 1)\exercicio4_lista3\exercicio4_lista3\obj\Debug\exercicio4_lista3.csproj.CoreCompileInputs.cache
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro3 - Estrutura de Repetição (parte 1)\exercicio4_lista3\exercicio4_lista3\bin\Debug\exercicio4_lista3.exe.config
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro3 - Estrutura de Repetição (parte 1)\exercicio4_lista3\exercicio4_lista3\bin\Debug\exercicio4_lista3.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro3 - Estrutura de Repetição (parte 1)\exercicio4_lista3\exercicio4_lista3\bin\Debug\exercicio4_lista3.pdb
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro3 - Estrutura de Repetição (parte 1)\exercicio4_lista3\exercicio4_lista3\obj\Debug\exercicio4_lista3.exe
+C:\Users\Pedro Fernandes\Desktop\PUC\ATP\Prática\Roteiro3 - Estrutura de Repetição (parte 1)\exercicio4_lista3\exercicio4_lista3\obj\Debug\exercicio4_lista3.pdb
